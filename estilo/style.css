@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+/* Estilo Global */
+html, body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #9370DB;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+
+   /* Título */
+   h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.8rem;
+    color: white;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+  }
+  
+  /* Contêiner Principal */
+  .container {
+    background-color: #4B0082;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  /* Labels */
+  label {
+    font-size: 1rem;
+    margin: 1px 0;
+    display: block;
+    color: white;
+    text-align: left;
+  }
+  
+  /* Inputs */
+  input[type="number"],
+  input[type="checkbox"] {
+    margin-top: 10px;
+  }
+  
+  /* Input de Número */
+  input[type="number"] {
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    border: 1px solid #FF00FF;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  /* Botão */
+  button {
+    background-color: #FF00FF;
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 12px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 100%;
+    transition: all 0.3s ease;
+  }
+
+  button:hover {
+    background-color: #8B008B;
+    color: white;
+  }
+  
+
+  
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+  

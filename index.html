@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta name="description" content="Gerador de Números">
+        <meta name="keywords" content="programação,html,css,javascript,números,gerador">
+        <meta name="author" content="Amanda Castilho">
+        <link rel="stylesheet" href="estilo/style.css">
+        <link rel="shortcut icon" href="icon/icons8-senha-64.png">
+        <title>Gerador de Números</title>
+    </head>
+
+    <body>
+        
+        <div class="container">
+
+        <h1>Gerador de Senha Aleatória</h1>
+
+            <label for="length">Quantidade de caracteres:
+                <input type="number" id="length" min="4" max="40" value="8"><br>
+            </label>
+
+            <label>
+                <input type="checkbox" id="uppercase"> Incluir letras maiúsculas
+            </label><br>
+
+            <label>
+                <input type="checkbox" id="lowercase"> Incluir letras minúsculas
+            </label><br>
+
+            <label>
+                <input type="checkbox" id="numbers"> Incluir números
+            </label><br>
+
+            <label>
+                <input type="checkbox" id="specialcharacters"> Incluir caracteres especiais
+            </label><br>
+
+            <button id="generate">Gerar Senha</button>
+            <p><span id="password">Senha gerada </span></p>
+
+        </div>
+
+        <script src="script.js"></script>
+
+    </body>
+
+
+</html>

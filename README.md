@@ -68,7 +68,6 @@ Com base nas opções selecionadas pelo usuário, o script monta dinamicamente u
 ### 🔹 Validação
 
 Caso nenhuma opção seja marcada, o sistema exibe um **alerta automático**, impedindo a geração da senha.  
-Segurança vem antes da pressa 🚨
 
 ---
 

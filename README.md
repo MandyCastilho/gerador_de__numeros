@@ -3,7 +3,7 @@
 
 Um **Gerador de Senhas Aleatórias personalizável**, desenvolvido com **HTML, CSS e JavaScript puro**, focado em **segurança**, **usabilidade** e **design moderno**.
 
-O usuário pode definir o **tamanho da senha** e escolher **quais tipos de caracteres** deseja incluir, gerando **senhas fortes** de forma rápida, intuitiva e estilosa. Segurança, mas make it fashion. 💅
+O usuário pode definir o **tamanho da senha** e escolher **quais tipos de caracteres** deseja incluir, gerando **senhas fortes** de forma rápida e intuitiva. 
 
 ---
 
